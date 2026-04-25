@@ -1,5 +1,5 @@
 {
-    "name": "Jexploit",
+    "name": "JEXPLOIT",
     "version": "1.4.7",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -27,7 +27,7 @@
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.0",
-        "@whiskeysockets/baileys": "npm:veron-baileys@latest",
+        "@whiskeysockets/baileys": "npm:malvin-baileys",
         "acrcloud": "^1.4.0",
         "adm-zip": "^0.5.16",
         "api-dylux": "latest",
