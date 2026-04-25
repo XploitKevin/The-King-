@@ -1,6 +1,6 @@
 {
     "name": "JEXPLOIT",
-    "version": "1.4.7",
+    "version": "1.5.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
     "type": "commonjs",
