@@ -1,16 +1,33 @@
 {
-  "$schema": "https://railway.app/railway.schema.json",
-  "build": {
-    "builder": "DOCKERFILE",
-    "dockerfilePath": "Dockerfile"
-  },
-  "deploy": {
-    "restartPolicyType": "ON_FAILURE",
-    "restartPolicyMaxRetries": 10,
-    "env": {
-      "SESSION_ID": "",
-      "PORT": "3000"
+  "name": "Jexploit MD Bot",
+  "description": "Advanced WhatsApp Multi-Device Bot with powerful features by Kelvin Tech",
+  "repository": "https://github.com/Kevintech-hub/Jexploit-Bot",
+  "logo": "https://files.catbox.moe/1q4bho.jpg",
+  "keywords": ["whatsapp-bot", "baileys", "jexploit", "multi-device", "md-bot"],
+  "env": {
+    "SESSION_ID": {
+      "description": "Session id must begin with JEXPLOIT-BOT~ or VESPER-BOT:~",
+      "required": true,
+      "value": ""
+    },
+    "OWNER_NAME": {
+      "description": "Kevin",
+      "required": false,
+      "value": "Kelvin Tech"
+    },
+    "BOT_NAME": {
+      "description": "JEXPLOIT",
+      "required": false,
+      "value": "JEXPLOIT"
+    },
+    "PORT": {
+      "description": "Port for the web server",
+      "required": false,
+      "value": "3000"
     }
   },
-  "name": "Jexploit MD Bot"
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "addons": []
 }

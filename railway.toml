@@ -1,6 +1,5 @@
 [build]
-builder = "DOCKERFILE"
-dockerfilePath = "Dockerfile"
+builder = "NIXPACKS"
 
 [deploy]
 restartPolicyType = "ON_FAILURE"
@@ -9,3 +8,5 @@ restartPolicyMaxRetries = 10
 [deploy.env]
 SESSION_ID = ""
 PORT = "3000"
+OWNER_NAME = "Kevin"
+BOT_NAME = "JEXPLOIT"
