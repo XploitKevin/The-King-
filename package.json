@@ -5,15 +5,17 @@
     "main": "index.js",
     "type": "commonjs",
     "engines": {
-        "node": "20.x", 
-        "npm": ">= 10.x"  
+        "node": "20.x",
+        "npm": ">= 10.x"
     },
     "scripts": {
         "start": "node index.js",
         "dev": "nodemon index.js",
         "stop": "pkill -f node",
         "restart": "npm stop && npm start",
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "docker:build": "docker build -t jexploit .",
+        "docker:run": "docker run -e SESSION_ID=$SESSION_ID jexploit"
     },
     "keywords": [
         "whatsapp-bot",
@@ -28,7 +30,6 @@
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.0",
         "@whiskeysockets/baileys": "https://github.com/Kevintech-hub/JexCore-baileys/archive/refs/tags/V2.0.tar.gz",
-        "api-kev": "https://github.com/Kevintech-hub/Xploit-scraper",
         "acrcloud": "^1.4.0",
         "adm-zip": "^0.5.16",
         "api-dylux": "latest",
