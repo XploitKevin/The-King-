@@ -162,7 +162,7 @@ src="https://files.catbox.moe/1q4bho.jpg">
 <br>
 <sub>Deploy on Railway platform</sub>
 <br>
-<a href="#">
+<a href="https://railway.com/deploy?template=https://github.com/Kevintech-hub/Jexploit-Bot">
 <img src="https://img.shields.io/badge/DEPLOY%20TO%20RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 </a>
 </p>
@@ -175,8 +175,21 @@ src="https://files.catbox.moe/1q4bho.jpg">
 <br>
 <sub>Deploy on Render cloud platform</sub>
 <br>
-<a href="#">
+<a href="https://render.com/deploy?repo=https://github.com/Kevintech-hub/Jexploit-Bot">
 <img src="https://img.shields.io/badge/DEPLOY%20TO%20RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</a>
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif' width="50%"/></a>
+
+<!-- KOYEB DEPLOYMENT -->
+<p align="center">
+<strong>🟣 KOYEB DEPLOYMENT</strong>
+<br>
+<sub>Deploy on Koyeb platform</sub>
+<br>
+<a href="https://app.koyeb.com/services/deploy?type=git&repository=github.com/Kevintech-hub/Jexploit-Bot">
+<img src="https://img.shields.io/badge/DEPLOY%20TO%20KOYEB-121212?style=for-the-badge&logo=koyeb&logoColor=white"/>
 </a>
 </p>
 
@@ -228,4 +241,3 @@ src="https://files.catbox.moe/1q4bho.jpg">
 <img src="https://img.shields.io/badge/Version-2.0.0-6A5ACD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge" />
 </p>
-
