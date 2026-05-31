@@ -13,21 +13,21 @@ src="https://files.catbox.moe/1q4bho.jpg">
 
 <p align="center">
 <a href="https://github.com/Kevintech-hub/followers"><img title="Followers" src="https://img.shields.io/github/followers/Kevintech-hub?color=6A5ACD&style=flat-square&label=Followers"></a>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kevintech-hub/Vinic-Xmd-?color=6A5ACD&style=flat-square&label=Stars"></a>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kevintech-hub/Vinic-Xmd-?color=6A5ACD&style=flat-square&label=Forks"></a>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kevintech-hub/Vinic-Xmd-?label=Watchers&color=6A5ACD&style=flat-square"></a>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/"><img title="Size" src="https://img.shields.io/github/repo-size/Kevintech-hub/Vinic-Xmd-?style=flat-square&color=6A5ACD"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevintech-hub%2FVinic-Xmd-&count_bg=%236A5ACD&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-6A5ACD.svg"></a>
+<a href="https://github.com/Kevintech-hub/Jexploit-Bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Kevintech-hub/Jexploit-Bot?color=6A5ACD&style=flat-square&label=Stars"></a>
+<a href="https://github.com/Kevintech-hub/Jexploit-Bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kevintech-hub/Jexploit-Bot?color=6A5ACD&style=flat-square&label=Forks"></a>
+<a href="https://github.com/Kevintech-hub/Jexploit-Bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Kevintech-hub/Jexploit-Bot?label=Watchers&color=6A5ACD&style=flat-square"></a>
+<a href="https://github.com/Kevintech-hub/Jexploit-Bot/"><img title="Size" src="https://img.shields.io/github/repo-size/Kevintech-hub/Jexploit-Bot?style=flat-square&color=6A5ACD"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevintech-hub%2FJexploit-Bot&count_bg=%236A5ACD&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Kevintech-hub/Jexploit-Bot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-6A5ACD.svg"></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=6A5ACD"></a>
+<a href="https://github.com/Kevintech-hub/Jexploit-Bot"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=6A5ACD"></a>
 <img src="https://komarev.com/ghpvc/?username=Kevintech-hub&label=VIEWS&style=flat-square&color=6A5ACD" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-6A5ACD?style=for-the-badge&logo=appveyor" /></a>
+<a href="https://github.com/Kevintech-hub/Jexploit-Bot"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-6A5ACD?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -95,7 +95,7 @@ src="https://files.catbox.moe/1q4bho.jpg">
 <h3 align="center">🚀 Fork the Repository</h3>
 
 <p align="center">
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/fork"><img src="https://img.shields.io/github/forks/Kevintech-hub/Vinic-Xmd-?style=for-the-badge&logo=github&color=6A5ACD&label=FORK%20REPOSITORY" alt="Fork Vinic-Xmd" /></a>
+<a href="https://github.com/Kevintech-hub/Jexploit-Bot/fork"><img src="https://img.shields.io/github/forks/Kevintech-hub/Jexploit-Bot?style=for-the-badge&logo=github&color=6A5ACD&label=FORK%20REPOSITORY" alt="Fork Jexploit-Bot" /></a>
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -110,7 +110,7 @@ src="https://files.catbox.moe/1q4bho.jpg">
 <br>
 <sub>Download bot files for panel hosting</sub>
 <br>
-<a href="https://github.com/Kevintech-hub/Vinic-Xmd-/archive/refs/heads/main.zip">
+<a href="https://github.com/Kevintech-hub/Jexploit-Bot/archive/refs/heads/main.zip">
 <img src="https://img.shields.io/badge/DOWNLOAD%20BOT%20FILES-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </p>
@@ -219,8 +219,8 @@ src="https://files.catbox.moe/1q4bho.jpg">
 <li>Enter pair code in link devices in whatsapp.</li>
 <li><strong style="color: #28a745;">✓ Deployment successful!</strong></li>
 </ol>
-</td>
 </tr>
+</table>
 </table>
 
 <br/>
