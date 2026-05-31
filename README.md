@@ -100,6 +100,17 @@ src="https://files.catbox.moe/1q4bho.jpg">
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+## Deploy
+
+Deploy JEXPLOIT with one click on any supported platform:
+
+<p align="center">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Kevintech-hub/Jexploit-Bot"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
+  <a href="https://railway.com/deploy?template=https://github.com/Kevintech-hub/Jexploit-Bot"><img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /></a>
+  <a href="https://render.com/deploy?repo=https://github.com/Kevintech-hub/Jexploit-Bot"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
+  <a href="https://app.koyeb.com/services/deploy?type=git&repository=github.com/Kevintech-hub/Jexploit-Bot"><img src="https://img.shields.io/badge/Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white" /></a>
+</p>
+
 <h2 align="center">📦 DEPLOYMENT OPTIONS</h2>
 
 <br/>
