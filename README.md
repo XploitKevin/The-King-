@@ -162,7 +162,7 @@ src="https://files.catbox.moe/1q4bho.jpg">
 <br>
 <sub>Deploy on Railway platform</sub>
 <br>
-<a href="https://railway.com/deploy?template=https://github.com/Kevintech-hub/Jexploit-Bot">
+<a href="https://railway.app/new?template=https://github.com/Kevintech-hub/Jexploit-Bot">
 <img src="https://img.shields.io/badge/DEPLOY%20TO%20RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 </a>
 </p>
